@@ -1,4 +1,4 @@
-package com.netty_book.chapter02;
+package com.netty_book.chapter02_demo;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

@@ -1,4 +1,4 @@
-package com.netty_book.chapter02;
+package com.netty_book.chapter02_demo;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
